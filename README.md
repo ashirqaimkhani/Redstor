@@ -1,2 +1,2 @@
-# Redstor
+# Redstore1
 static website
