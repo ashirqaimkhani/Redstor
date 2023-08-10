@@ -1,0 +1,2 @@
+# Redstor
+static website
